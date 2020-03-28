@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.Quantum.Sdk/0.10.2001.2831">
+﻿<Project Sdk="Microsoft.Quantum.Sdk/0.10.49007-beta">
 
   <PropertyGroup>
     <OutputType>Library</OutputType>
