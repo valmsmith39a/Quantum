@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Quantum.Development.Kit" Version="0.12.20070113-beta" />
-    <PackageReference Include="Microsoft.Quantum.Standard" Version="0.12.20070113-beta" />
+    <ProjectReference Include="..\..\algorithms\simple-grover\SimpleGroverSample.csproj" />
   </ItemGroup>
 </Project>
