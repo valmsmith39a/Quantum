@@ -9,8 +9,8 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.7" />
     <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="3.1.7" />
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.1.7" />
-    <PackageReference Include="Microsoft.Quantum.Chemistry" Version="0.12.20100504" />
-    <PackageReference Include="Microsoft.Quantum.Research" Version="0.12.20100504" />
+    <PackageReference Include="Microsoft.Quantum.Chemistry" Version="0.13.201118013-beta" />
+    <PackageReference Include="Microsoft.Quantum.Research" Version="0.13.201118013-beta" />
     <ProjectReference Include="..\RunSimulationOperation\2-RunSimulationOperation.csproj" />
   </ItemGroup>
 
